@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "956336714234",
+    "firebase_url": "https://aust-travels-1a6e6-default-rtdb.firebaseio.com",
+    "project_id": "aust-travels-1a6e6",
+    "storage_bucket": "aust-travels-1a6e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956336714234:android:a942f8c1a1e0f0aa0eb443",
+        "android_client_info": {
+          "package_name": "com.pixieium.austtravels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJNVjIlsaQj7xE5cL8KTaseS55SN9QO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956336714234:android:2da5167c16052cab0eb443",
+        "android_client_info": {
+          "package_name": "com.pixieium.austtravels.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJNVjIlsaQj7xE5cL8KTaseS55SN9QO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

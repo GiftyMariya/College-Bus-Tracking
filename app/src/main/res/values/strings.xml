@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">AustTravels</string>
+    <string name="or">OR</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_name">Enter your nickname</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up_with_email">SIGN UP WITH EMAIL</string>
+    <string name="aust_travels">AUST TRAVELS</string>
+    <string name="directions">DIRECTIONS</string>
+    <string name="title_activity_live_track">LiveTrackActivity</string>
+    <string name="LIVE_TRACKING">LIVE TRACKING</string>
+    <string name="starting_time"><b>Starting Time</b>: %s</string>
+    <string name="last_updated"><b>Last updated</b>: %s</string>
+    <string name="last_updated_by"><b>Last updated by</b>: %s</string>
+    <string name="selected_bus"><b>Selected Bus</b>: %s</string>
+    <string name="ping"><b>PING</b></string>
+    <string name="select_time">Select start time</string>
+    <string name="select_name">Select bus name</string>
+    <string name="select">SELECT</string>
+    <string name="ROUTES">ROUTES</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="enter_your_institutional_email">Enter your institutional email</string>
+    <string name="select_your_semester">Select your semester</string>
+    <string name="select_your_department">Select your  department</string>
+    <string name="logout">Logout</string>
+    <string name="live_track_bus">LIVE TRACK BUS</string>
+    <string name="view_directions">VIEW DIRECTIONS</string>
+    <string name="view_routes">VIEW ROUTES</string>
+    <string name="contribute">CONTRIBUTION</string>
+    <string name="share_location">SHARE LOCATION</string>
+    <string name="view_volunteers">VIEW VOLUNTEERS</string>
+    <string name="select_bus">SELECT BUS</string>
+    <string name="app_title">AUST TRAVELS</string>
+    <string name="bus_jamuna"><b>Bus</b>: %s</string>
+    <string name="time_6_45_am"><b>Time</b>: %s</string>
+    <string name="currently_sharing_location"><b>You are currently sharing you location for %s:%s</b></string>
+    <string name="stop_sharing_location">STOP SHARING LOCATION</string>
+    <string name="become_a_volunteer">Become a volunteer</string>
+    <string name="volunteer_prompt_select_bus">Choose the <b>primary</b> bus that you travel in</string>
+    <string name="volunteer_prompt_phone">Enter your contact number. <b>We won’t share your contact with anyone.</b> We’ll use this information only when it’s urgent</string>
+    <string name="volunteer_prompt">By becoming a volunteer, you will be responsible for sharing your location <b>ONLY</b> when you are on the bus. Your location data will be continuously shared with other relevant users while your location sharing is active.<br /><br /> <b>Do you wish to continue?</b></string>
+    <string name="prominent_disclosure">This app collects location data to enable relevant users to track your location <b>while you’re riding on the bus</b> even when the app is closed or not in use.<br /> <br /><b>Do you wish to continue?</b> </string>
+    <string name="btn_continue">continue</string>
+    <string name="web_client_id">714054307139-qd93ng69or950o7fc53qegt7jp39v0n5.apps.googleusercontent.com</string>
+    <string name="enter_your_university_id">Enter your university ID</string>
+    <string name="logged_in_as_s">%s</string>
+    <string name="marker_prompt">Tap here to view directions</string>
+    <string name="username">%s</string>
+    <string name="universityId">%s</string>
+    <string name="google_maps_api">AIzaSyCdhFmZBWJajjLP2dw6MWhDB6lHR5tc33E</string>
+    <string name="use_your_location">USE YOUR LOCATION</string>
+    <string name="time_shared">%s</string>
+    <string name="channel_name">location_sharing</string>
+    <string name="channel_description">a notification showing the user that their location is being shared in the backgroun.</string>
+    <string name="search_for_a_bus">SEARCH FOR A BUS</string>
+
+    <string name="warning">WARNING</string>
+    <string name="deleting_your_account">Deleting your account will result in all of your personal data being removed from your servers. This action is <b>irreversible</b> and we advice you to think twice before deleting the account.</string>
+    <string name="i_confirm">I CONFIRM</string>
+    <string name="contribute_to_the_community">Contribute to the community by routinely sharing your location</string>
+    <string name="privacy_policy"><![CDATA[Privacy & Policy]]></string>
+    <string name="view_the_privacy_policy">View the privacy policy of the application</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="delete_everything">Delete everything associated with your account</string>
+    <string name="confirm">confirm</string>
+    <string name="re_authenticate_yourself">RE-AUTHENTICATE YOURSELF</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="_14">%s.</string>
+    <string name="_12hr">12hr</string>
+    <string name="no_volunteers_found">no volunteers found!</string>
+    <string name="top_position_name">%s</string>
+    <string name="send">SEND</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password_title">Forgot password</string>
+    <string name="return_back">RETURN BACK</string>
+    <string name="forgot_pass_caption">We’ll send you a password reset link if the email you provide exists in our database</string>
+    <string name="enter_your_phone">Enter your phone</string>
+
+    <!--location-->
+    <string name="launch_activity">Launch activity</string>
+    <string name="location_unknown">Location Unknown</string>
+    <string name="location_updates_label">Location Updates</string>
+    <string name="permission_rationale">Location permission needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="stop_location_updates_button_text">Stop location sharing</string>
+    <string name="preference_file_key">com.example.android.while_in_use_location.PREFERENCE_FILE_KEY</string>
+    <string name="no_location_text">No current location</string>
+    <string name="sharing_location_prompt">You are currently sharing your location in the background</string>
+    <string name="re_position_bus">Re-position bus</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="contributors">Contributors</string>
+    <string name="primary_bus">Primary Bus</string>
+    <string name="primary_bus_value">Currently set to: %s</string>
+    <string name="location_notifications">Location Notifications</string>
+    <string name="if_you_don_t_want_to_receive_any_notifications_when_someone_is_sharing_their_location_turn_this_off">If you don’t want to receive any notifications when someone is sharing their location, turn this off</string>
+    <string name="if_you_don_t_want_to_receive_any_ping_notifications_turn_this_off">If you don’t want to receive any ping notifications, turn this off</string>
+    <string name="ping_notifications">Ping Notifications</string>
+    <string name="change">change</string>
+    <string name="placeholder_mohammadpur">Mohammadpur</string>
+    <string name="update_available">UPDATE AVAILABLE</string>
+    <string name="a_new_update_is_available">Hello travelers, we\'ve just launched a new update of version %s. Make sure to update your app to the latest version to get the best experience.</string>
+    <string name="update">update</string>
+    <string name="_0">0</string>
+    <string name="bus_representatives">bus representatives</string>
+    <string name="representative_1">Representative 1</string>
+    <string name="representative_2">Representative 2</string>
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet...</string>
+    <string name="action_settings">Settings</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+
+</resources>
